@@ -2,7 +2,7 @@
 
 I built my first computer at 8 and I've been fixing and building things ever since, with software and with my hands.
 
-I grew up in a rodeo family in Northern Colorado and worked in our family's fence-building business. Since then I've been a power equipment mechanic, a professional brewer, an HOA night manager and a blinds business owner. I've turned an '03 Shadow Spirit 750 into my own bobber, I still have an old '94 Ranger, and these days I also work on a 500 acre luxury hunting and fishing ranch in Wyoming.
+I grew up in a rodeo family in Northern Colorado and worked in our family's fence-building business. Since then I've been a power equipment mechanic, a professional brewer, an HOA night manager and a blinds business owner. I've turned an '03 Shadow Spirit 750 into my own bobber, I still have an old '94 Ranger, and these days I also work on a 500 acre luxury hunting and fishing ranch.
 
 By day I'm a software engineer, building on Salesforce (Apex). The rest of the time I build software for the kind of people I grew up around and work alongside: rodeo producers, cowboys, and hard workers. I like building things that real people use on the ground.
 
